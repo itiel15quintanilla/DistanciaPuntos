@@ -1,0 +1,12 @@
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\bin\Debug\DistanciaPuntos.exe.config
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\bin\Debug\DistanciaPuntos.exe
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\bin\Debug\DistanciaPuntos.pdb
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\bin\Debug\DistanciaPuntos.xml
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\obj\Debug\DistanciaPuntos.vbprojAssemblyReference.cache
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\obj\Debug\DistanciaPuntos.Form1.resources
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\obj\Debug\DistanciaPuntos.Resources.resources
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\obj\Debug\DistanciaPuntos.vbproj.GenerateResource.cache
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\obj\Debug\DistanciaPuntos.vbproj.CoreCompileInputs.cache
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\obj\Debug\DistanciaPuntos.exe
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\obj\Debug\DistanciaPuntos.xml
+C:\Users\itiel\source\repos\DistanciaPuntos\DistanciaPuntos\obj\Debug\DistanciaPuntos.pdb
